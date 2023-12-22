@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc6ffee0.css",
+    "main.js": "/static/js/main.9aee1482.js",
+    "static/media/sobor.jpg": "/static/media/sobor.e01753a33e04ab870db8.jpg",
+    "static/media/AubreyPro.otf": "/static/media/AubreyPro.e18c7dc2e744361faae9.otf",
+    "index.html": "/index.html",
+    "main.fc6ffee0.css.map": "/static/css/main.fc6ffee0.css.map",
+    "main.9aee1482.js.map": "/static/js/main.9aee1482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6ffee0.css",
+    "static/js/main.9aee1482.js"
+  ]
+}
